@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Haider Imran</h1>
-<h3 align="center">I am Javascript Developer </h3>
+<h3 align="center">I am Frontend Developer </h3>
  </p>
 
 - 🌱 I’m currently learning **Typescript,NodeJS,ReactJS**
